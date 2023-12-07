@@ -1,0 +1,2 @@
+[ec-2]
+jokesHost   ansible_host=18.237.60.1   ansible_user=ubuntu
